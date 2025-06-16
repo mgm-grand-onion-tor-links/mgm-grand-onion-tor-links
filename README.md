@@ -51,4 +51,6 @@ This guide has been supplied solely for educational, as well as informational pu
 
 
 
-Update: url is now functioning and live
+
+
+Update: Updated environment setup documentation
