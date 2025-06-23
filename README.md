@@ -57,4 +57,6 @@ This guide has been supplied solely for educational, as well as informational pu
 
 
 
-Update: I'm pleased to announce that the link is back up.
+
+
+Update:  23 June
