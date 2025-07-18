@@ -69,4 +69,6 @@ This guide has been supplied solely for educational, as well as informational pu
 
 
 
-Update: Resource URLs
+
+
+Update:  18 July
