@@ -73,4 +73,6 @@ This guide has been supplied solely for educational, as well as informational pu
 
 
 
-Update: Repaired dead links in development setup guide
+
+
+Update: Good news! The link is alive and well.
